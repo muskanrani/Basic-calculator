@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\muskan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\muskan\\.nuget\\packages"
+    ]
+  }
+}
